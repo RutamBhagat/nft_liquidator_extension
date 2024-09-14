@@ -1,10 +1,10 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
+    "description": "A Chrome extension for NFT liquidation that allows users to browse and select NFTs from their collection, choose the token they want to receive, view real-time prices, and execute liquidation transactions.",
     "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
   },
   "extensionName": {
-    "description": "Extension name",
+    "description": "NFT Liquidation Extension",
     "message": "Chrome extension boilerplate"
   },
   "toggleTheme": {
